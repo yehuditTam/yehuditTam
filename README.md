@@ -29,7 +29,7 @@
 
 ### 📫 איך ליצור קשר?
 * **Email Adress:** yt0583232865@email.com
-* **GitHub:** https://github.com/yehuditTam/yehudit
+* **GitHub:** https://github.com/yehuditTam
 
 ---
 
