@@ -28,8 +28,8 @@
 ---
 
 ### 📫 איך ליצור קשר?
-* **LinkedIn:** [הוסיפי כאן את הלינק שלך]
-* **GitHub:** [הוסיפי כאן את שם המשתמש שלך]
+* **Email Adress:** [שלחי לי מייל](mailto:yt0583232865@email.com)
+* **GitHub:** https://github.com/yehuditTam/yehudit
 
 ---
 
