@@ -28,7 +28,7 @@
 ---
 
 ### 📫 איך ליצור קשר?
-* **Email Adress:** [שלחי לי מייל](mailto:yt0583232865@email.com)
+* **Email Adress:** yt0583232865@email.com
 * **GitHub:** https://github.com/yehuditTam/yehudit
 
 ---
