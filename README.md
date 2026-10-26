@@ -1,36 +1,49 @@
-# היי, אני יהודית! 👋
+# Hi, I'm Yehudit 👋
 
-סטודנטית להנדסת תוכנה (הנדסאים) עם התשוקה לבנות פתרונות טכנולוגיים מורכבים. אני משלבת יכולות פיתוח Full Stack עם ידע מעמיק בתחום ה-AI Engineering, החל מ-Prompt Engineering ועד לארכיטקטורות RAG מורכבות.
+**Full Stack & AI Engineer** · Software Engineering diploma (MAHAT), GPA 97, Honors · KamaTech
 
----
+I build end-to-end systems – from Angular front ends through ASP.NET Core and FastAPI back ends to Redis, Kafka and SQL – and I build and evaluate LLM-powered systems: RAG, AI agents, MCP and LLM-as-a-judge evaluation.
 
-### 🛠 טכנולוגיות וכלים
-* **Web Development:** Angular, JavaScript (ES6+), HTML5, CSS3.
-* **Backend Development:** C#, C++, C, Java, ASP.NET Core Web API.
-* **AI Engineering:** * **Frameworks:** LangChain, LlamaIndex.
-  * **Concepts:** Prompt Engineering, RAG (Retrieval-Augmented Generation), Embeddings, Vector Databases.
-  * **Architecture:** AI Agents, Model Context Protocol (MCP), AI System Architecture.
+Currently at the **Nebius × KamaTech bootcamp**, building **TraceGrade** for Contentsquare: a CLI that runs Claude Code, Codex and Factory Droid as LLM judges over AI-agent trajectories and scores them with agreement, macro-F1 and Cohen's kappa.
 
 ---
 
-### 🚀 הכשרות בולטים
-סיימתי הכשרה מקיפה ב-**AI Engineering**, אשר כללה:
-* בניית מערכות AI מבוססות **RAG** ו-**Embeddings** לשליפת נתונים חכמה.
-* שימוש ב-**LlamaIndex** ו-**LangChain** לפיתוח סוכני AI.
-* התמחות ב-**Prompt Engineering** – מטכניקות בסיסיות ועד לאופטימיזציה מורכבת של מודלים.
-* תכנון **ארכיטקטורת מערכות AI** ואינטגרציות באמצעות MCP.
+### 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**AI Engineer Projects**](https://github.com/yehuditTam/AI-Engineer-Projects) | Autonomous research agent with human-in-the-loop, agentic RAG with dynamic routing, and NL2CMD prompt evaluation (78% → 93%) | LangGraph, LlamaIndex, ChromaDB, OpenAI, Cohere |
+| [**My Music Store**](https://github.com/yehuditTam/music-website) | Team-built music store – I led most of the development: layered Web API, Redis cache, Kafka pipeline, rate limiting | .NET 8, Angular 19, SQL Server, Redis, Kafka |
+| [**Kungfu Chess**](https://github.com/yehuditTam/chess-engine-design-bootcamp) | Real-time distributed game backend: gateways, ELO matchmaker and game shards over NATS | Python, FastAPI, WebSockets, NATS, Redis, PostgreSQL, K8s |
+| [**Secure Messenger**](https://github.com/yehuditTam/Secure-Messenger-Project) | Team project – encrypted messaging API with real-time SSE delivery | FastAPI, AES-256-GCM, bcrypt, JWT |
+| [**MCP Weather Agent**](https://github.com/yehuditTam/MCP_weather) | Claude routes between two MCP servers: a Playwright scraper and a weather API | MCP SDK, Anthropic API |
+| [**Serverless Catalog**](https://github.com/yehuditTam/AWS-Project) | Product catalog on AWS | React, TypeScript, Lambda, DynamoDB |
 
 ---
 
-### 💡 מה אני מחפשת?
-אני מחפשת להשתלב בתעשיית ההייטק בתפקיד **Junior Full Stack Developer** או **AI Software Developer**. אני מביאה איתי יכולת למידה מהירה, ראש טכנולוגי והבנה עמוקה של הכלים החדשים ביותר בשוק.
+### 🛠 Tech stack
+
+- **Languages:** C#, Python, TypeScript, JavaScript, SQL
+- **Frontend:** Angular, React, RxJS, HTML5, CSS3
+- **Backend:** ASP.NET Core, EF Core, FastAPI, Node.js, REST, WebSockets, SSE
+- **Data & messaging:** SQL Server, PostgreSQL, MongoDB, Redis, Kafka, NATS
+- **AI:** LangGraph, LangChain, LlamaIndex, RAG, embeddings, MCP, OpenAI & Anthropic APIs, LLM-as-a-judge
+- **DevOps & testing:** Docker, Kubernetes, AWS, Git, xUnit, pytest
 
 ---
 
-### 📫 איך ליצור קשר?
-* **Email Adress:** yt0583232865@gmail.com
-* **GitHub:** https://github.com/yehuditTam
+### 💡 Looking for
+
+A **Junior Full Stack Developer** or **AI Software Engineer** role.
+
+### 📫 Contact
+
+[yt0583232865@gmail.com](mailto:yt0583232865@gmail.com)
 
 ---
 
-*תודה שהגעת לכאן! מוזמנת להעיף מבט בפרויקטים שלי למטה. 👇*
+<div dir="rtl">
+
+**בעברית בקצרה:** מפתחת Full Stack ו-AI, בוגרת הנדסאי תוכנה בקמאטק בממוצע 97 (מסלול מצטיינים). בונה מערכות מקצה לקצה ומערכות מבוססות LLM, ומחפשת משרת ג'וניור בפיתוח Full Stack או AI.
+
+</div>
