@@ -14,7 +14,7 @@ Currently at the **Nebius × KamaTech bootcamp**, building **TraceGrade** for Co
 |---|---|---|
 | [**AI Engineer Projects**](https://github.com/yehuditTam/AI-Engineer-Projects) | Autonomous research agent with human-in-the-loop, agentic RAG with dynamic routing, and NL2CMD prompt evaluation (78% → 93%) | LangGraph, LlamaIndex, ChromaDB, OpenAI, Cohere |
 | [**My Music Store**](https://github.com/yehuditTam/music-website) | Team-built music store – I led most of the development: layered Web API, Redis cache, Kafka pipeline, rate limiting | .NET 8, Angular 19, SQL Server, Redis, Kafka |
-| [**Kungfu Chess**](https://github.com/yehuditTam/chess-engine-design-bootcamp) | Real-time distributed game backend: gateways, ELO matchmaker and game shards over NATS | Python, FastAPI, WebSockets, NATS, Redis, PostgreSQL, K8s |
+| [**Kungfu Chess**](https://github.com/yehuditTam/kungfu-chess) | Real-time distributed game backend: gateways, ELO matchmaker and game shards over NATS | Python, FastAPI, WebSockets, NATS, Redis, PostgreSQL, K8s |
 | [**Secure Messenger**](https://github.com/yehuditTam/Secure-Messenger-Project) | Team project – encrypted messaging API with real-time SSE delivery | FastAPI, AES-256-GCM, bcrypt, JWT |
 | [**MCP Weather Agent**](https://github.com/yehuditTam/MCP_weather) | Claude routes between two MCP servers: a Playwright scraper and a weather API | MCP SDK, Anthropic API |
 | [**Serverless Catalog**](https://github.com/yehuditTam/AWS-Project) | Product catalog on AWS | React, TypeScript, Lambda, DynamoDB |
